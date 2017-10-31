@@ -1,0 +1,5 @@
+.mail-link,
+.tel-link {
+  text-decoration: none;
+  color: #000;
+}
